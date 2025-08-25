@@ -160,6 +160,5 @@ Feel free to contribute improvements:
 Demo of the Project:
 ==================================================
 Visit this Link: https://drive.google.com/file/d/1C-ep733DSpcEYN8T0ZwrII2KKDQd2XI6/view?usp=drive_link
-Thank You
 ==================================================
 \`\`\`
